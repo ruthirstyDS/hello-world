@@ -9,3 +9,7 @@
 /* This is an updated file */
 
 print "Hello";
+
+for ($i = 1; $i < 4; $i++) {
+    print $i;
+}
