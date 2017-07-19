@@ -6,3 +6,6 @@
  * and open the template in the editor.
  */
 
+/* This is an updated file */
+
+print "Hello";
